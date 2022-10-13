@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erikv05
-- 📚 I'm a student at The Overlake School and this is my profile!
+- 📚 Student at The Overlake School
 
 <!---
 erikv05/erikv05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
