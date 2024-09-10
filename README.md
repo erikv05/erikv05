@@ -1,4 +1,4 @@
-CS @ UW
+CS @ Brown
 
 <!---
 erikv05/erikv05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
