@@ -1,4 +1,4 @@
-Building usenarrative.ai
+Building the future of AI video infra — narrative.video
 
 Formerly SWE Intern @ Apple, CS @ Brown
 
